@@ -1,16 +1,40 @@
-## Hi there 👋
+```md
+<h1 align="center">Hi, I'm Laura Latorre Carrillo 👋</h1>
 
-<!--
-**lattx5/lattx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science & Business Student
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Interested in software development, artificial intelligence and business management.
+- Currently improving my programming and problem-solving skills.
+- Passionate about technology, innovation and efficient systems.
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/laura-latorre-carrillo/
+- Email: lauralatorrecarrillo@gmail.com
+```
