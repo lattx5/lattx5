@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Laura Latorre Carrillo 👋</h1>
 
 <p align="center">
@@ -37,4 +37,4 @@ Computer Science & Business Student
 
 - LinkedIn: https://www.linkedin.com/in/laura-latorre-carrillo/
 - Email: lauralatorrecarrillo@gmail.com
-```
+
