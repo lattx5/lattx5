@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Laura Latorre Carrillo 👋</h1>
 
 <p align="center">
-Computer Science & Business Student
+Computer Science & Business Management Student
 </p>
 
 ---
@@ -19,16 +19,6 @@ Computer Science & Business Student
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,docker,linux,vscode" />
-</p>
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lattx5&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lattx5&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
